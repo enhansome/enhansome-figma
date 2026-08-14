@@ -50,10 +50,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,124 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
-* [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,671 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,127 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,673 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
 * [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,118 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
-* [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 830 | 🐛 3 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
+* [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 831 | 🐛 5 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
 * [tailwindcss-figma-plugin](https://github.com/impulse/tailwindcss-figma-plugin) ⚠️ Archived - Figma Plugin for TailwindCSS.
 * [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) ⭐ 203 | 🐛 1 | 🌐 HTML | 📅 2024-03-05 - Figma plugin to copy svg as a react component.
 * [Themer](https://github.com/thomas-lowry/themer) ⭐ 135 | 🐛 32 | 🌐 Svelte | 📅 2023-01-09 - A Figma plugin designed to allow you to swap between styles named the same from different published libraries.
@@ -65,7 +65,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Plugins development
 
-* [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,695 | 🐛 63 | 🌐 TypeScript | 📅 2026-04-14 - Render React components to Figma.
+* [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,694 | 🐛 63 | 🌐 TypeScript | 📅 2026-04-14 - Render React components to Figma.
 * [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) ⭐ 1,117 | 🐛 28 | 🌐 TypeScript | 📅 2026-03-21 - A comprehensive toolkit for developing Figma plugins.
 * [figma-plugin-react-template](https://github.com/nirsky/figma-plugin-react-template) ⭐ 483 | 🐛 4 | 🌐 TypeScript | 📅 2024-09-01 — Quickstart your Figma Plugin with this template and tooling.
 * [figplug](https://github.com/rsms/figplug) ⭐ 371 | 🐛 8 | 🌐 TypeScript | 📅 2023-05-06 - Figma plugin builder.
@@ -88,12 +88,12 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [figma-api-demo](https://github.com/figma/figma-api-demo) ⚠️ Archived - This project contains demo apps using the Figma API.
 * [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) ⭐ 876 | 🐛 13 | 🌐 Dart | 📅 2021-10-10 - A Dart code generator that converts Figma components to Flutter widgets.
-* [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 821 | 🐛 26 | 🌐 Swift | 📅 2026-07-27 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
+* [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 822 | 🐛 26 | 🌐 Swift | 📅 2026-07-27 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 * [Figma.js](https://github.com/jongold/figma-js) ⚠️ Archived - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) ⭐ 393 | 🐛 108 | 🌐 TypeScript | 📅 2026-02-12 - A GraphQL connector for the Figma API.
 * [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) ⭐ 189 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - Embed Figma designs in a storybook panel.
 * [figma-theme](https://github.com/jxnblk/figma-theme) ⚠️ Archived - Generate development-ready theme JSON files from Figma Styles.
-* [figma-tools](https://github.com/souporserious/figma-tools) ⭐ 107 | 🐛 1 | 🌐 TypeScript | 📅 2023-07-25 - Tools to help you programmatically interact with your Figma files.
+* [figma-tools](https://github.com/souporserious/figma-tools) ⭐ 108 | 🐛 1 | 🌐 TypeScript | 📅 2023-07-25 - Tools to help you programmatically interact with your Figma files.
 * [Figma-To-Pdf](https://github.com/gweltaz-calori/Figma-To-Pdf) ⭐ 83 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-25 - A simple demo of exporting pdf from Figma using the API.
 * [figma-slack-updates](https://github.com/jordansinger/figma-slack-updates) ⭐ 70 | 🐛 9 | 🌐 Python | 📅 2020-12-18 - Post updates to Slack from a Figma file's version history.
 * [FigmaPy](https://github.com/Amatobahn/FigmaPy) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2026-04-13 - An unofficial Python3+ wrapper for Figma API.
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
