@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T23:23:49Z",
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5127
+            "stars": 5130
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-08-19T19:28:22Z",
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3673
+            "stars": 3674
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-02-16T09:28:58Z",
             "owner": "lukasoppermann",
             "repo": "design-tokens",
-            "stars": 1118
+            "stars": 1119
           }
         },
         {
@@ -598,7 +598,7 @@
             "last_commit": "2026-01-21T23:35:38Z",
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3261
+            "stars": 3262
           }
         },
         {
@@ -620,7 +620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:44:08.178Z",
+    "last_updated": "2026-08-15T19:16:53.575Z",
     "original_repository": "react-figma/awesome-figma",
     "original_repository_sha": "cbba9cc84e723addbfcdc280c4bdddf7c5e7cff7",
     "enhanced_repository": "enhansome/enhansome-figma",
