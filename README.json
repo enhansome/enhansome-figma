@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T23:23:49Z",
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5135
+            "stars": 5139
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-08-19T19:28:22Z",
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3674
+            "stars": 3673
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-04-14T01:26:09Z",
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2694
+            "stars": 2693
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-03-21T14:52:11Z",
             "owner": "yuanqing",
             "repo": "create-figma-plugin",
-            "stars": 1117
+            "stars": 1115
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-09-01T21:01:57Z",
             "owner": "nirsky",
             "repo": "figma-plugin-react-template",
-            "stars": 483
+            "stars": 481
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2024-07-02T01:20:32Z",
             "owner": "thomas-lowry",
             "repo": "figma-plugin-ds",
-            "stars": 757
+            "stars": 756
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2021-10-10T20:30:01Z",
             "owner": "aloisdeniel",
             "repo": "figma-to-flutter",
-            "stars": 876
+            "stars": 875
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2026-07-27T00:17:22Z",
             "owner": "RedMadRobot",
             "repo": "figma-export",
-            "stars": 823
+            "stars": 822
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-03-14T21:31:15Z",
             "owner": "jem-computer",
             "repo": "figma-js",
-            "stars": 495
+            "stars": 494
           }
         },
         {
@@ -598,7 +598,7 @@
             "last_commit": "2026-01-21T23:35:38Z",
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3259
+            "stars": 3256
           }
         },
         {
@@ -620,7 +620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:22:32.213Z",
+    "last_updated": "2026-08-18T19:22:37.240Z",
     "original_repository": "react-figma/awesome-figma",
     "original_repository_sha": "cbba9cc84e723addbfcdc280c4bdddf7c5e7cff7",
     "enhanced_repository": "enhansome/enhansome-figma",
