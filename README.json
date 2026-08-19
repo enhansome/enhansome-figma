@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273585960,
             "language": "TypeScript",
             "last_commit": "2026-08-05T23:23:49Z",
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5139
+            "stars": 5143
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204588673,
             "language": "TypeScript",
             "last_commit": "2025-08-19T19:28:22Z",
             "owner": "BuilderIO",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296301916,
             "language": "TypeScript",
             "last_commit": "2026-02-16T09:28:58Z",
             "owner": "lukasoppermann",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204786174,
             "language": null,
             "last_commit": "2026-07-17T21:26:52Z",
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 831
+            "stars": 830
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 200097100,
             "language": "TypeScript",
             "last_commit": "2023-03-04T04:27:08Z",
             "owner": "ecklf",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205620787,
             "language": "HTML",
             "last_commit": "2024-03-05T16:24:15Z",
             "owner": "SaraVieira",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204012279,
             "language": "Svelte",
             "last_commit": "2023-01-09T12:20:35Z",
             "owner": "thomas-lowry",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230717575,
             "language": "TypeScript",
             "last_commit": "2023-03-03T11:44:20Z",
             "owner": "maxkrieger",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 220639882,
             "language": "TypeScript",
             "last_commit": "2025-03-19T16:35:45Z",
             "owner": "ahkohd",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283662369,
             "language": "TypeScript",
             "last_commit": "2022-12-06T17:32:16Z",
             "owner": "sonnylazuardi",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256602331,
             "language": "HTML",
             "last_commit": "2020-06-03T21:45:15Z",
             "owner": "thelittlewonder",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216347018,
             "language": "JavaScript",
             "last_commit": "2025-11-18T18:58:27Z",
             "owner": "jeetiss",
@@ -175,7 +187,7 @@
       "title": "Open-Source Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201732237,
             "language": "TypeScript",
             "last_commit": "2026-04-14T01:26:09Z",
             "owner": "react-figma",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197867246,
             "language": "TypeScript",
             "last_commit": "2026-03-21T14:52:11Z",
             "owner": "yuanqing",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200381991,
             "language": "TypeScript",
             "last_commit": "2024-09-01T21:01:57Z",
             "owner": "nirsky",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194001173,
             "language": "TypeScript",
             "last_commit": "2023-05-06T03:57:33Z",
             "owner": "rsms",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233848661,
             "language": "TypeScript",
             "last_commit": "2024-02-24T20:00:59Z",
             "owner": "figma-plugin-helper-functions",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620847013,
             "language": "TypeScript",
             "last_commit": "2025-01-08T13:29:32Z",
             "owner": "iGoodie",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212844994,
             "language": "JavaScript",
             "last_commit": "2021-05-31T09:49:53Z",
             "owner": "Lona",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440899357,
             "language": "TypeScript",
             "last_commit": "2026-02-06T14:17:37Z",
             "owner": "headwindz",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214228527,
             "language": "TypeScript",
             "last_commit": "2024-07-09T15:53:46Z",
             "owner": "react-figma",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 229476034,
             "language": "TypeScript",
             "last_commit": "2026-01-17T06:01:33Z",
             "owner": "okotoki",
@@ -321,7 +343,7 @@
       "title": "Plugins development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199364605,
             "language": "SCSS",
             "last_commit": "2024-07-02T01:20:32Z",
             "owner": "thomas-lowry",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190164432,
             "language": "Shell",
             "last_commit": "2022-02-04T11:00:11Z",
             "owner": "ecklf",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199893813,
             "language": "TypeScript",
             "last_commit": "2023-01-05T16:18:49Z",
             "owner": "jhardy",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200680766,
             "language": "TypeScript",
             "last_commit": "2023-01-07T08:26:19Z",
             "owner": "react-figma",
@@ -383,7 +409,7 @@
       "title": "Templates & UI Kits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 126235030,
             "language": "JavaScript",
             "last_commit": "2023-04-23T20:29:59Z",
             "owner": "figma",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142528219,
             "language": "Dart",
             "last_commit": "2021-10-10T20:30:01Z",
             "owner": "aloisdeniel",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265837801,
             "language": "Swift",
             "last_commit": "2026-07-27T00:17:22Z",
             "owner": "RedMadRobot",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 126510620,
             "language": "TypeScript",
             "last_commit": "2024-03-14T21:31:15Z",
             "owner": "jem-computer",
@@ -448,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127189259,
             "language": "TypeScript",
             "last_commit": "2026-02-12T14:30:26Z",
             "owner": "braposo",
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106185735,
             "language": "JavaScript",
             "last_commit": "2022-12-07T09:04:20Z",
             "owner": "hharnisc",
@@ -476,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 140108691,
             "language": "JavaScript",
             "last_commit": "2018-07-10T18:51:53Z",
             "owner": "jxnblk",
@@ -490,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294602286,
             "language": "TypeScript",
             "last_commit": "2023-07-25T19:50:03Z",
             "owner": "figma-tools",
@@ -504,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126867474,
             "language": "JavaScript",
             "last_commit": "2018-11-25T10:39:18Z",
             "owner": "gweltaz-calori",
@@ -518,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251109994,
             "language": "Python",
             "last_commit": "2020-12-18T14:40:47Z",
             "owner": "jordansinger",
@@ -532,8 +568,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132765335,
             "language": "Python",
-            "last_commit": "2026-04-13T19:00:09Z",
+            "last_commit": "2026-08-19T08:33:24Z",
             "owner": "Amatobahn",
             "repo": "FigmaPy",
             "stars": 59
@@ -546,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196401894,
             "language": "JavaScript",
             "last_commit": "2023-01-04T04:30:08Z",
             "owner": "Severenit",
@@ -560,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181746224,
             "language": "JavaScript",
             "last_commit": "2022-01-06T22:34:15Z",
             "owner": "robinetbatman",
@@ -574,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204179468,
             "language": "TypeScript",
             "last_commit": "2024-08-28T07:41:36Z",
             "owner": "simareeno",
@@ -585,7 +625,7 @@
       "title": "Rest API integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -594,11 +634,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115411542,
             "language": "Svelte",
             "last_commit": "2026-01-21T23:35:38Z",
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3256
+            "stars": 3257
           }
         },
         {
@@ -608,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75481421,
             "language": "JavaScript",
             "last_commit": "2019-01-11T23:47:21Z",
             "owner": "302bis",
@@ -620,8 +662,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:22:37.240Z",
+    "last_updated": "2026-08-19T12:26:45.964Z",
     "original_repository": "react-figma/awesome-figma",
+    "original_repository_id": 165040894,
     "original_repository_sha": "cbba9cc84e723addbfcdc280c4bdddf7c5e7cff7",
     "enhanced_repository": "enhansome/enhansome-figma",
     "enhanced_repository_description": null,

@@ -50,10 +50,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,139 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,143 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 * [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,673 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
 * [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,120 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
-* [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 831 | 🐛 10 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
+* [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 830 | 🐛 10 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
 * [tailwindcss-figma-plugin](https://github.com/impulse/tailwindcss-figma-plugin) ⚠️ Archived - Figma Plugin for TailwindCSS.
 * [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) ⭐ 203 | 🐛 1 | 🌐 HTML | 📅 2024-03-05 - Figma plugin to copy svg as a react component.
 * [Themer](https://github.com/thomas-lowry/themer) ⭐ 135 | 🐛 32 | 🌐 Svelte | 📅 2023-01-09 - A Figma plugin designed to allow you to swap between styles named the same from different published libraries.
@@ -96,7 +96,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-tools](https://github.com/souporserious/figma-tools) ⭐ 108 | 🐛 1 | 🌐 TypeScript | 📅 2023-07-25 - Tools to help you programmatically interact with your Figma files.
 * [Figma-To-Pdf](https://github.com/gweltaz-calori/Figma-To-Pdf) ⭐ 83 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-25 - A simple demo of exporting pdf from Figma using the API.
 * [figma-slack-updates](https://github.com/jordansinger/figma-slack-updates) ⭐ 70 | 🐛 9 | 🌐 Python | 📅 2020-12-18 - Post updates to Slack from a Figma file's version history.
-* [FigmaPy](https://github.com/Amatobahn/FigmaPy) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2026-04-13 - An unofficial Python3+ wrapper for Figma API.
+* [FigmaPy](https://github.com/Amatobahn/FigmaPy) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2026-08-19 - An unofficial Python3+ wrapper for Figma API.
 * [Figma to web](https://github.com/Severenit/figma-to-web) ⭐ 38 | 🐛 9 | 🌐 JavaScript | 📅 2023-01-04 - This repository will collect all developments related to the integration of Figma to Web.
 * [figma-lottie](https://github.com/robinetbatman/figma-lottie) ⭐ 19 | 🐛 12 | 🌐 JavaScript | 📅 2022-01-06 - Figma Lottie integration.
 * [figma-and-production](https://github.com/simareeno/figma-and-production) ⭐ 16 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-28 - An example of how you can sync Figma & production.
@@ -104,7 +104,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Clients
 
-* [figma-linux](https://github.com/ChugunovRoman/figma-linux) ⭐ 3,256 | 🐛 163 | 🌐 Svelte | 📅 2026-01-21 - Figma electron app (unofficial).
+* [figma-linux](https://github.com/ChugunovRoman/figma-linux) ⭐ 3,257 | 🐛 163 | 🌐 Svelte | 📅 2026-01-21 - Figma electron app (unofficial).
 * [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) ⭐ 54 | 🐛 9 | 🌐 JavaScript | 📅 2019-01-11 - Figma, Snap Package (unofficial).
 * [Figmac](https://figmac.com/) - A super lightweight Figma desktop app that delivers a more natural Mac experience.
 
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
