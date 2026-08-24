@@ -15,7 +15,7 @@
             "last_commit": "2026-08-05T23:23:49Z",
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5152
+            "stars": 5153
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-08-19T19:28:22Z",
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3677
+            "stars": 3678
           }
         },
         {
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:28.815Z",
+    "last_updated": "2026-08-24T19:23:50.187Z",
     "original_repository": "react-figma/awesome-figma",
     "original_repository_id": 165040894,
     "original_repository_sha": "cbba9cc84e723addbfcdc280c4bdddf7c5e7cff7",
