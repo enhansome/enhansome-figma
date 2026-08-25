@@ -639,7 +639,7 @@
             "last_commit": "2026-01-21T23:35:38Z",
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3259
+            "stars": 3260
           }
         },
         {
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:51.708Z",
+    "last_updated": "2026-08-25T19:25:56.327Z",
     "original_repository": "react-figma/awesome-figma",
     "original_repository_id": 165040894,
     "original_repository_sha": "cbba9cc84e723addbfcdc280c4bdddf7c5e7cff7",
