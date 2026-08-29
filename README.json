@@ -499,7 +499,7 @@
             "open_issues": 1,
             "owner": "Lona",
             "repo": "figma-jsonrpc",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "figma",
               "figma-jsonrpc",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:17.329Z",
+    "last_updated": "2026-08-29T21:28:43.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",

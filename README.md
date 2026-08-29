@@ -71,7 +71,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figplug](https://github.com/rsms/figplug) ⭐ 371 | 🐛 8 | 🌐 TypeScript | 📅 2023-05-06 - Figma plugin builder.
 * [figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) ⭐ 282 | 🐛 26 | 🌐 TypeScript | 📅 2024-02-24 - A collection of useful helper functions to import to your Figma plugin project.
 * [figma-plugin-react-vite](https://github.com/CoconutGoodie/figma-plugin-react-vite) ⭐ 168 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-08 — A figma plugin boilerplate, that simplifies building plugins with React + Vite.
-* [figma-jsonrpc](https://github.com/Lona/figma-jsonrpc) ⭐ 62 | 🐛 1 | 🌐 JavaScript | 📅 2021-05-31 - Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI.
+* [figma-jsonrpc](https://github.com/Lona/figma-jsonrpc) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2021-05-31 - Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI.
 * [figx](https://github.com/n0ruSh/figx) ⭐ 57 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-06 - A comprehensive and reliable figma utilities library.
 * [figma-api-stub](https://github.com/react-figma/figma-api-stub) ⭐ 48 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-09 - Figma API Stub.
 * [figma-messenger](https://github.com/okotoki/figma-messenger) ⚠️ Archived - Type-safe iframe - main thread communication.
