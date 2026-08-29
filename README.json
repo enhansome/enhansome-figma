@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.",
+            "homepage": "https://www.figma.com/community/plugin/842128343887142055",
             "id": 273585960,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T23:23:49Z",
+            "open_issues": 52,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5158
+            "stars": 5159,
+            "topics": [
+              "conversion",
+              "figma",
+              "figma-plugins",
+              "flutter",
+              "html",
+              "react",
+              "responsive",
+              "shadcn-ui",
+              "svelte",
+              "swift",
+              "swiftui",
+              "tailwind",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -26,12 +46,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert any website to editable Figma designs",
+            "homepage": "https://www.figma.com/community/plugin/747985167520967365",
             "id": 204588673,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-19T19:28:22Z",
+            "open_issues": 60,
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3681
+            "stars": 3681,
+            "topics": [
+              "angular",
+              "chrome-extension",
+              "design-systems",
+              "design-to-code",
+              "design-tools",
+              "figma",
+              "figma-plugin",
+              "figma-plugins",
+              "html",
+              "jsx-lite",
+              "no-code",
+              "react",
+              "storybook",
+              "svelte",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -42,12 +84,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.",
+            "homepage": "https://www.figma.com/community/plugin/888356646278934516/Design-Tokens",
             "id": 296301916,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-16T09:28:58Z",
+            "open_issues": 41,
             "owner": "lukasoppermann",
             "repo": "design-tokens",
-            "stars": 1121
+            "stars": 1121,
+            "topics": [
+              "amazon-style-dictionary",
+              "design-system",
+              "design-tokens",
+              "figma",
+              "figma-api",
+              "figma-plugin",
+              "style-dictionary"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -58,12 +113,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of open source plugins, widgets, agent skills, and developer resources for Figma products that have been shared on GitHub.",
+            "homepage": "https://www.figma.com/developers",
             "id": 204786174,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-17T21:26:52Z",
+            "open_issues": 10,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 840
+            "stars": 840,
+            "topics": [
+              "agent-skills",
+              "figma",
+              "figma-api",
+              "figma-mcp",
+              "figma-plugin",
+              "figma-widget",
+              "use-figma"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -74,12 +142,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Figma Plugin for Tailwind CSS",
+            "homepage": "https://www.figma.com/community/plugin/738806869514947558/Tailwind-CSS",
             "id": 200097100,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T04:27:08Z",
+            "open_issues": 22,
             "owner": "ecklf",
             "repo": "tailwindcss-figma-plugin",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "figma",
+              "plugin",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -90,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figma plugin to copy svg as a react component",
+            "homepage": "https://www.figma.com/c/plugin/749818562498396194/SVG-to-JSX",
             "id": 205620787,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-03-05T16:24:15Z",
+            "open_issues": 1,
             "owner": "SaraVieira",
             "repo": "svg-to-jsx",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -106,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Figma plugin designed to allow you to swap between styles named the same from different published libraries.",
+            "homepage": null,
             "id": 204012279,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2023-01-09T12:20:35Z",
+            "open_issues": 32,
             "owner": "thomas-lowry",
             "repo": "themer",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -122,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Put LaTeX into your figma documents!",
+            "homepage": "https://www.figma.com/community/plugin/793023817364007801/LaTeX-Complete",
             "id": 230717575,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-03T11:44:20Z",
+            "open_issues": 9,
             "owner": "maxkrieger",
             "repo": "figma-latex-complete-plugin",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -138,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🙈 import, lit and use 3D models right there in Figma",
+            "homepage": null,
             "id": 220639882,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-19T16:35:45Z",
+            "open_issues": 6,
             "owner": "ahkohd",
             "repo": "FigmaThird",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -154,12 +251,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let you insert a text from your voice to your design using speech recognition",
+            "homepage": "https://www.figma.com/community/plugin/866715466816416331/Hey-Figma-Speech-Recognition",
             "id": 283662369,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-06T17:32:16Z",
+            "open_issues": 14,
             "owner": "sonnylazuardi",
             "repo": "figma-speech-recognition",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "design",
+              "figma",
+              "recognition",
+              "speech"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -170,12 +277,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figma plugin to import color palettes from popular design systems directly to your file.",
+            "homepage": "https://www.figma.com/community/plugin/832358256915224919",
             "id": 256602331,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-06-03T21:45:15Z",
+            "open_issues": 1,
             "owner": "thelittlewonder",
             "repo": "system.colors",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "colors",
+              "design-system",
+              "figma",
+              "figma-plugin",
+              "figma-plugins"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -186,12 +304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 216347018,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-11-18T18:58:27Z",
+            "open_issues": 40,
             "owner": "jeetiss",
             "repo": "figlight",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         }
@@ -208,12 +331,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚛️ A React renderer for Figma",
+            "homepage": "https://react-figma.dev",
             "id": 201732237,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-14T01:26:09Z",
+            "open_issues": 63,
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2692
+            "stars": 2692,
+            "topics": [
+              "figma",
+              "figma-plugins",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -224,12 +356,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":battery: The comprehensive toolkit for developing plugins and widgets for Figma",
+            "homepage": "https://yuanqing.github.io/create-figma-plugin/",
             "id": 197867246,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-21T14:52:11Z",
+            "open_issues": 28,
             "owner": "yuanqing",
             "repo": "create-figma-plugin",
-            "stars": 1116
+            "stars": 1116,
+            "topics": [
+              "create-figma-plugin",
+              "figjam",
+              "figjam-plugin",
+              "figjam-plugins",
+              "figjam-widget",
+              "figjam-widgets",
+              "figma",
+              "figma-plugin",
+              "figma-plugins"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -240,12 +387,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickstart your Figma Plugin with this template and tooling.",
+            "homepage": null,
             "id": 200381991,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-01T21:01:57Z",
+            "open_issues": 4,
             "owner": "nirsky",
             "repo": "figma-plugin-react-template",
-            "stars": 481
+            "stars": 481,
+            "topics": [
+              "boilerplate",
+              "figma-plugin",
+              "react",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -256,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figma plugin builder",
+            "homepage": "https://rsms.me/figplug/",
             "id": 194001173,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-06T03:57:33Z",
+            "open_issues": 8,
             "owner": "rsms",
             "repo": "figplug",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -272,12 +434,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful helper functions to import to your Figma plugin project",
+            "homepage": null,
             "id": 233848661,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-02-24T20:00:59Z",
+            "open_issues": 26,
             "owner": "figma-plugin-helper-functions",
             "repo": "figma-plugin-helpers",
-            "stars": 282
+            "stars": 282,
+            "topics": [
+              "figma",
+              "figma-plugin",
+              "helpers"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -288,12 +459,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧩 A figma plugin boilerplate, that simplifies building plugins with React + Vite!",
+            "homepage": null,
             "id": 620847013,
             "language": "TypeScript",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-01-08T13:29:32Z",
+            "open_issues": 5,
             "owner": "iGoodie",
             "repo": "figma-plugin-react-vite",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "boilerplate",
+              "figjam",
+              "figjam-plugin",
+              "figma",
+              "figma-plugin",
+              "react",
+              "template",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -304,12 +490,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI.",
+            "homepage": null,
             "id": 212844994,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-05-31T09:49:53Z",
+            "open_issues": 1,
             "owner": "Lona",
             "repo": "figma-jsonrpc",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "figma",
+              "figma-jsonrpc",
+              "figma-plugin",
+              "json-rpc"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -320,12 +516,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive and reliable figma utilities library",
+            "homepage": "https://figx.headwindz.me",
             "id": 440899357,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-06T14:17:37Z",
+            "open_issues": 1,
             "owner": "headwindz",
             "repo": "figx",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "figma",
+              "figma-plugin",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -336,12 +541,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 A stub implementation of Figma Plugins API.",
+            "homepage": null,
             "id": 214228527,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-09T15:53:46Z",
+            "open_issues": 7,
             "owner": "react-figma",
             "repo": "figma-api-stub",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "figma",
+              "figma-plugins",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -352,12 +566,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Type-safe communication for good 🧐.",
+            "homepage": null,
             "id": 229476034,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-17T06:01:33Z",
+            "open_issues": 8,
             "owner": "okotoki",
             "repo": "figma-messenger",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "emitter",
+              "figma",
+              "figma-plugins",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         }
@@ -374,12 +598,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small lightweight design system for use in Figma Plugins",
+            "homepage": null,
             "id": 199364605,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-07-02T01:20:32Z",
+            "open_issues": 22,
             "owner": "thomas-lowry",
             "repo": "figma-plugin-ds",
-            "stars": 756
+            "stars": 756,
+            "topics": [
+              "figma-plugins"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -390,12 +621,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figma Kit for Tailwind CSS",
+            "homepage": "https://www.figma.com/c/file/768809027799962739",
             "id": 190164432,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-02-04T11:00:11Z",
+            "open_issues": 3,
             "owner": "ecklf",
             "repo": "tailwindcss-figma-kit",
-            "stars": 736
+            "stars": 736,
+            "topics": [
+              "css",
+              "design",
+              "figma",
+              "kit",
+              "tailwind",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -406,12 +649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figma UI styled components",
+            "homepage": "https://figma-styled-components.netlify.com/",
             "id": 199893813,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2023-01-05T16:18:49Z",
+            "open_issues": 26,
             "owner": "jhardy",
             "repo": "figma-styled-components",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -422,12 +670,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial set of Figma UI components",
+            "homepage": "https://figma-ui.lessmess.dev",
             "id": 200680766,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T08:26:19Z",
+            "open_issues": 23,
             "owner": "react-figma",
             "repo": "figma-ui-components",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "figma",
+              "figma-plugins"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         }
@@ -444,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 126235030,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-23T20:29:59Z",
+            "open_issues": 24,
             "owner": "figma",
             "repo": "figma-api-demo",
-            "stars": 1337
+            "stars": 1337,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -460,12 +721,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Dart code generator that converts Figma components to Flutter widgets.",
+            "homepage": "https://aloisdeniel.github.io/figma-to-flutter/",
             "id": 142528219,
             "language": "Dart",
+            "license": null,
             "last_commit": "2021-10-10T20:30:01Z",
+            "open_issues": 13,
             "owner": "aloisdeniel",
             "repo": "figma-to-flutter",
-            "stars": 875
+            "stars": 875,
+            "topics": [
+              "dart",
+              "figma",
+              "flutter",
+              "generator"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -476,12 +747,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project",
+            "homepage": null,
             "id": 265837801,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-27T00:17:22Z",
+            "open_issues": 26,
             "owner": "RedMadRobot",
             "repo": "figma-export",
-            "stars": 822
+            "stars": 822,
+            "topics": [
+              "android",
+              "android-studio",
+              "design",
+              "figma",
+              "figma-api",
+              "figmaapi",
+              "ios",
+              "swift",
+              "swift-ui",
+              "swiftui",
+              "typography",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -492,12 +781,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Little wrapper (+ types) for the Figma API",
+            "homepage": "https://jongold.github.io/figma-js/",
             "id": 126510620,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-14T21:31:15Z",
+            "open_issues": 12,
             "owner": "jem-computer",
             "repo": "figma-js",
-            "stars": 494
+            "stars": 494,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -508,12 +802,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The reimagined Figma API (super)powered by GraphQL",
+            "homepage": "https://figma-graphql.party",
             "id": 127189259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-12T14:30:26Z",
+            "open_issues": 108,
             "owner": "braposo",
             "repo": "figma-graphql",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "api",
+              "design",
+              "figma",
+              "figma-api",
+              "graphql",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -524,12 +830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embed Figma designs in a storybook panel",
+            "homepage": null,
             "id": 106185735,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-07T09:04:20Z",
+            "open_issues": 16,
             "owner": "hharnisc",
             "repo": "storybook-addon-figma",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -540,12 +851,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generate development-ready theme JSON files from Figma Styles",
+            "homepage": null,
             "id": 140108691,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-10T18:51:53Z",
+            "open_issues": 0,
             "owner": "jxnblk",
             "repo": "figma-theme",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "css-in-js",
+              "design-systems",
+              "figma",
+              "figma-api",
+              "figma-js",
+              "styled-system",
+              "styles",
+              "theme",
+              "tokens"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -556,12 +882,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to help you programmatically interact with your Figma files.",
+            "homepage": null,
             "id": 294602286,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-25T19:50:03Z",
+            "open_issues": 1,
             "owner": "figma-tools",
             "repo": "figma-tools",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -572,12 +903,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 126867474,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-25T10:39:18Z",
+            "open_issues": 2,
             "owner": "gweltaz-calori",
             "repo": "Figma-To-Pdf",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -588,12 +924,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Post updates to Slack from a Figma file's version history",
+            "homepage": null,
             "id": 251109994,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-18T14:40:47Z",
+            "open_issues": 9,
             "owner": "jordansinger",
             "repo": "figma-slack-updates",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -604,12 +945,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial Python3+ wrapper for Figma API",
+            "homepage": null,
             "id": 132765335,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T08:33:24Z",
+            "open_issues": 2,
             "owner": "Amatobahn",
             "repo": "FigmaPy",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "api",
+              "figma",
+              "python",
+              "python3",
+              "webapi",
+              "wrapper-api"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -620,12 +973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository will collect all developments related to the integration of Figma to Web",
+            "homepage": null,
             "id": 196401894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T04:30:08Z",
+            "open_issues": 9,
             "owner": "Severenit",
             "repo": "figma-to-web",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -636,12 +994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 181746224,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-06T22:34:15Z",
+            "open_issues": 12,
             "owner": "robinetbatman",
             "repo": "figma-lottie",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -652,12 +1015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of how you can sync Figma & production",
+            "homepage": null,
             "id": 204179468,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-08-28T07:41:36Z",
+            "open_issues": 2,
             "owner": "simareeno",
             "repo": "figma-and-production",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         }
@@ -674,12 +1042,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux",
+            "homepage": null,
             "id": 115411542,
             "language": "Svelte",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-21T23:35:38Z",
+            "open_issues": 162,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3260
+            "stars": 3260,
+            "topics": [
+              "electron",
+              "figma",
+              "figma-app",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         },
@@ -690,12 +1068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ubuntu app of the Awesome Design Tool called figma",
+            "homepage": null,
             "id": 75481421,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-01-11T23:47:21Z",
+            "open_issues": 9,
             "owner": "302bis",
             "repo": "figma-app-ubuntu",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
         }
@@ -704,15 +1087,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:57:44.313Z",
+    "last_updated": "2026-08-29T04:42:17.329Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💡 A curated list of delightful Figma resources",
+      "homepage": null,
       "id": 165040894,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-05-30T20:51:59Z",
+      "open_issues": 6,
       "owner": "react-figma",
       "repo": "awesome-figma",
-      "stars": 440
+      "stars": 440,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "figma"
+      ]
     },
     "original_repository_sha": "cbba9cc84e723addbfcdc280c4bdddf7c5e7cff7",
     "enhanced_repository": "enhansome/enhansome-figma",
