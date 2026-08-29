@@ -52,8 +52,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,158 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 * [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,681 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
-* [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,120 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
-* [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 839 | 🐛 10 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
+* [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,121 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
+* [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 840 | 🐛 10 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
 * [tailwindcss-figma-plugin](https://github.com/impulse/tailwindcss-figma-plugin) ⚠️ Archived - Figma Plugin for TailwindCSS.
 * [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) ⭐ 203 | 🐛 1 | 🌐 HTML | 📅 2024-03-05 - Figma plugin to copy svg as a react component.
 * [Themer](https://github.com/thomas-lowry/themer) ⭐ 135 | 🐛 32 | 🌐 Svelte | 📅 2023-01-09 - A Figma plugin designed to allow you to swap between styles named the same from different published libraries.
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

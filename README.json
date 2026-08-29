@@ -16,7 +16,8 @@
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
             "stars": 5158
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "BuilderIO",
             "repo": "figma-html",
             "stars": 3681
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-02-16T09:28:58Z",
             "owner": "lukasoppermann",
             "repo": "design-tokens",
-            "stars": 1120
-          }
+            "stars": 1121
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-07-17T21:26:52Z",
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 839
-          }
+            "stars": 840
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ecklf",
             "repo": "tailwindcss-figma-plugin",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "SaraVieira",
             "repo": "svg-to-jsx",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "thomas-lowry",
             "repo": "themer",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "maxkrieger",
             "repo": "figma-latex-complete-plugin",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ahkohd",
             "repo": "FigmaThird",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "sonnylazuardi",
             "repo": "figma-speech-recognition",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "thelittlewonder",
             "repo": "system.colors",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "jeetiss",
             "repo": "figlight",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         }
       ],
       "title": "Open-Source Plugins"
@@ -202,7 +214,8 @@
             "owner": "react-figma",
             "repo": "react-figma",
             "stars": 2692
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "yuanqing",
             "repo": "create-figma-plugin",
             "stars": 1116
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "nirsky",
             "repo": "figma-plugin-react-template",
             "stars": 481
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "rsms",
             "repo": "figplug",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "figma-plugin-helper-functions",
             "repo": "figma-plugin-helpers",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "iGoodie",
             "repo": "figma-plugin-react-vite",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "Lona",
             "repo": "figma-jsonrpc",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "headwindz",
             "repo": "figx",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "react-figma",
             "repo": "figma-api-stub",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "okotoki",
             "repo": "figma-messenger",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         }
       ],
       "title": "Plugins development"
@@ -358,7 +380,8 @@
             "owner": "thomas-lowry",
             "repo": "figma-plugin-ds",
             "stars": 756
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "ecklf",
             "repo": "tailwindcss-figma-kit",
             "stars": 736
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "jhardy",
             "repo": "figma-styled-components",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "react-figma",
             "repo": "figma-ui-components",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         }
       ],
       "title": "Templates & UI Kits"
@@ -424,7 +450,8 @@
             "owner": "figma",
             "repo": "figma-api-demo",
             "stars": 1337
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "aloisdeniel",
             "repo": "figma-to-flutter",
             "stars": 875
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "RedMadRobot",
             "repo": "figma-export",
             "stars": 822
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "jem-computer",
             "repo": "figma-js",
             "stars": 494
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "braposo",
             "repo": "figma-graphql",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "hharnisc",
             "repo": "storybook-addon-figma",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "jxnblk",
             "repo": "figma-theme",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "figma-tools",
             "repo": "figma-tools",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "gweltaz-calori",
             "repo": "Figma-To-Pdf",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "jordansinger",
             "repo": "figma-slack-updates",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "Amatobahn",
             "repo": "FigmaPy",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "Severenit",
             "repo": "figma-to-web",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "robinetbatman",
             "repo": "figma-lottie",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "simareeno",
             "repo": "figma-and-production",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         }
       ],
       "title": "Rest API integrations"
@@ -640,7 +680,8 @@
             "owner": "Figma-Linux",
             "repo": "figma-linux",
             "stars": 3260
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         },
         {
           "node_type": "item",
@@ -655,14 +696,15 @@
             "owner": "302bis",
             "repo": "figma-app-ubuntu",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T01:57:44.313Z"
         }
       ],
       "title": "Clients"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:24:06.975Z",
+    "last_updated": "2026-08-29T01:57:44.313Z",
     "original_repository_info": {
       "archived": false,
       "id": 165040894,
