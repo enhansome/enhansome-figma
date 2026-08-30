@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5159,
+            "stars": 5161,
             "topics": [
               "conversion",
               "figma",
@@ -119,10 +119,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-17T21:26:52Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 840,
+            "stars": 839,
             "topics": [
               "agent-skills",
               "figma",
@@ -340,7 +340,7 @@
             "open_issues": 63,
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2692,
+            "stars": 2690,
             "topics": [
               "figma",
               "figma-plugins",
@@ -365,7 +365,7 @@
             "open_issues": 28,
             "owner": "yuanqing",
             "repo": "create-figma-plugin",
-            "stars": 1116,
+            "stars": 1114,
             "topics": [
               "create-figma-plugin",
               "figjam",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:28:43.141Z",
+    "last_updated": "2026-08-30T21:48:41.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
