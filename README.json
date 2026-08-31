@@ -122,7 +122,7 @@
             "open_issues": 11,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "agent-skills",
               "figma",
@@ -1048,10 +1048,10 @@
             "language": "Svelte",
             "license": "GPL-2.0",
             "last_commit": "2026-01-21T23:35:38Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3260,
+            "stars": 3265,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:48:41.320Z",
+    "last_updated": "2026-08-31T23:05:13.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
