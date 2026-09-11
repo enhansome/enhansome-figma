@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5179,
+            "stars": 5178,
             "topics": [
               "conversion",
               "figma",
@@ -122,7 +122,7 @@
             "open_issues": 11,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "agent-skills",
               "figma",
@@ -340,7 +340,7 @@
             "open_issues": 63,
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2690,
+            "stars": 2689,
             "topics": [
               "figma",
               "figma-plugins",
@@ -836,7 +836,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2022-12-07T09:04:20Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "hharnisc",
             "repo": "storybook-addon-figma",
             "stars": 189,
@@ -1051,7 +1051,7 @@
             "open_issues": 162,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3267,
+            "stars": 3268,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:20:03.463Z",
+    "last_updated": "2026-09-11T21:30:30.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
