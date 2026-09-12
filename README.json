@@ -122,7 +122,7 @@
             "open_issues": 11,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 848,
+            "stars": 850,
             "topics": [
               "agent-skills",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:30:30.334Z",
+    "last_updated": "2026-09-12T21:08:32.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
