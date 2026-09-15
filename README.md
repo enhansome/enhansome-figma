@@ -50,10 +50,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,182 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
-* [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,691 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,187 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,692 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
 * [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,123 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
-* [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 850 | 🐛 11 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
+* [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 851 | 🐛 12 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
 * [tailwindcss-figma-plugin](https://github.com/impulse/tailwindcss-figma-plugin) ⚠️ Archived - Figma Plugin for TailwindCSS.
 * [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) ⭐ 203 | 🐛 1 | 🌐 HTML | 📅 2024-03-05 - Figma plugin to copy svg as a react component.
 * [Themer](https://github.com/thomas-lowry/themer) ⭐ 135 | 🐛 32 | 🌐 Svelte | 📅 2023-01-09 - A Figma plugin designed to allow you to swap between styles named the same from different published libraries.
@@ -78,7 +78,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Templates & UI Kits
 
-* [figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds) ⭐ 756 | 🐛 22 | 🌐 SCSS | 📅 2024-07-02 - A small lightweight design system for use in Figma Plugins.
+* [figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds) ⭐ 757 | 🐛 22 | 🌐 SCSS | 📅 2024-07-02 - A small lightweight design system for use in Figma Plugins.
 * [tailwindcss-figma-kit](https://github.com/impulse/tailwindcss-figma-kit) ⭐ 736 | 🐛 3 | 🌐 Shell | 📅 2022-02-04 - Figma Kit for TailwindCSS.
 * [figma-styled-components](https://github.com/jhardy/figma-styled-components) ⭐ 60 | 🐛 26 | 🌐 TypeScript | 📅 2023-01-05 - Figma UI styled components.
 * [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) ⭐ 39 | 🐛 23 | 🌐 TypeScript | 📅 2023-01-07 - An unofficial set of Figma UI components.
@@ -104,7 +104,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Clients
 
-* [figma-linux](https://github.com/ChugunovRoman/figma-linux) ⭐ 3,268 | 🐛 162 | 🌐 Svelte | 📅 2026-01-21 - Figma electron app (unofficial).
+* [figma-linux](https://github.com/ChugunovRoman/figma-linux) ⭐ 3,269 | 🐛 163 | 🌐 Svelte | 📅 2026-01-21 - Figma electron app (unofficial).
 * [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) ⭐ 54 | 🐛 9 | 🌐 JavaScript | 📅 2019-01-11 - Figma, Snap Package (unofficial).
 * [Figmac](https://figmac.com/) - A super lightweight Figma desktop app that delivers a more natural Mac experience.
 
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

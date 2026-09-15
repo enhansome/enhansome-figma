@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5182,
+            "stars": 5187,
             "topics": [
               "conversion",
               "figma",
@@ -55,7 +55,7 @@
             "open_issues": 60,
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3691,
+            "stars": 3692,
             "topics": [
               "angular",
               "chrome-extension",
@@ -119,10 +119,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-17T21:26:52Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 850,
+            "stars": 851,
             "topics": [
               "agent-skills",
               "figma",
@@ -607,7 +607,7 @@
             "open_issues": 22,
             "owner": "thomas-lowry",
             "repo": "figma-plugin-ds",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "figma-plugins"
             ]
@@ -709,7 +709,7 @@
             "open_issues": 24,
             "owner": "figma",
             "repo": "figma-api-demo",
-            "stars": 1336,
+            "stars": 1337,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
@@ -1048,10 +1048,10 @@
             "language": "Svelte",
             "license": "GPL-2.0",
             "last_commit": "2026-01-21T23:35:38Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3268,
+            "stars": 3269,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:14:01.021Z",
+    "last_updated": "2026-09-15T21:52:58.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
