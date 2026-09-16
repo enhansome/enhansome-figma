@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5187,
+            "stars": 5189,
             "topics": [
               "conversion",
               "figma",
@@ -55,7 +55,7 @@
             "open_issues": 60,
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3692,
+            "stars": 3693,
             "topics": [
               "angular",
               "chrome-extension",
@@ -1051,7 +1051,7 @@
             "open_issues": 163,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3269,
+            "stars": 3270,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:52:58.441Z",
+    "last_updated": "2026-09-16T21:50:31.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
