@@ -50,7 +50,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,194 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,200 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 * [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,694 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
 * [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,125 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 * [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 853 | 🐛 12 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
@@ -65,7 +65,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Plugins development
 
-* [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,691 | 🐛 63 | 🌐 TypeScript | 📅 2026-04-14 - Render React components to Figma.
+* [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,692 | 🐛 63 | 🌐 TypeScript | 📅 2026-04-14 - Render React components to Figma.
 * [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) ⭐ 1,118 | 🐛 28 | 🌐 TypeScript | 📅 2026-03-21 - A comprehensive toolkit for developing Figma plugins.
 * [figma-plugin-react-template](https://github.com/nirsky/figma-plugin-react-template) ⭐ 481 | 🐛 4 | 🌐 TypeScript | 📅 2024-09-01 — Quickstart your Figma Plugin with this template and tooling.
 * [figplug](https://github.com/rsms/figplug) ⭐ 371 | 🐛 8 | 🌐 TypeScript | 📅 2023-05-06 - Figma plugin builder.
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

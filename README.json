@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5194,
+            "stars": 5200,
             "topics": [
               "conversion",
               "figma",
@@ -340,7 +340,7 @@
             "open_issues": 63,
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2691,
+            "stars": 2692,
             "topics": [
               "figma",
               "figma-plugins",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:13:07.965Z",
+    "last_updated": "2026-09-20T21:08:01.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
