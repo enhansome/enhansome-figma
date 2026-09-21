@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5200,
+            "stars": 5203,
             "topics": [
               "conversion",
               "figma",
@@ -93,7 +93,7 @@
             "open_issues": 41,
             "owner": "lukasoppermann",
             "repo": "design-tokens",
-            "stars": 1125,
+            "stars": 1126,
             "topics": [
               "amazon-style-dictionary",
               "design-system",
@@ -122,7 +122,7 @@
             "open_issues": 12,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 853,
+            "stars": 854,
             "topics": [
               "agent-skills",
               "figma",
@@ -340,7 +340,7 @@
             "open_issues": 63,
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2692,
+            "stars": 2693,
             "topics": [
               "figma",
               "figma-plugins",
@@ -756,7 +756,7 @@
             "open_issues": 26,
             "owner": "RedMadRobot",
             "repo": "figma-export",
-            "stars": 822,
+            "stars": 821,
             "topics": [
               "android",
               "android-studio",
@@ -1048,7 +1048,7 @@
             "language": "Svelte",
             "license": "GPL-2.0",
             "last_commit": "2026-01-21T23:35:38Z",
-            "open_issues": 163,
+            "open_issues": 162,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
             "stars": 3271,
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:08:01.836Z",
+    "last_updated": "2026-09-21T22:23:28.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
