@@ -88,7 +88,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [figma-api-demo](https://github.com/figma/figma-api-demo) ⚠️ Archived - This project contains demo apps using the Figma API.
 * [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) ⭐ 874 | 🐛 13 | 🌐 Dart | 📅 2021-10-10 - A Dart code generator that converts Figma components to Flutter widgets.
-* [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 821 | 🐛 26 | 🌐 Swift | 📅 2026-07-27 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
+* [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 821 | 🐛 27 | 🌐 Swift | 📅 2026-09-26 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 * [Figma.js](https://github.com/jongold/figma-js) ⚠️ Archived - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) ⭐ 393 | 🐛 108 | 🌐 TypeScript | 📅 2026-02-12 - A GraphQL connector for the Figma API.
 * [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) ⭐ 189 | 🐛 17 | 🌐 JavaScript | 📅 2022-12-07 - Embed Figma designs in a storybook panel.
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
