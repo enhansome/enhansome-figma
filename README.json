@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5213,
+            "stars": 5212,
             "topics": [
               "conversion",
               "figma",
@@ -90,7 +90,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-02-16T09:28:58Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "lukasoppermann",
             "repo": "design-tokens",
             "stars": 1126,
@@ -1051,7 +1051,7 @@
             "open_issues": 161,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3279,
+            "stars": 3281,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:57:57.655Z",
+    "last_updated": "2026-10-02T22:45:15.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
