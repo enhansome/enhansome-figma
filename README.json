@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5214,
+            "stars": 5215,
             "topics": [
               "conversion",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:09:08.947Z",
+    "last_updated": "2026-10-06T00:31:51.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
@@ -1099,7 +1099,7 @@
       "open_issues": 8,
       "owner": "react-figma",
       "repo": "awesome-figma",
-      "stars": 440,
+      "stars": 437,
       "topics": [
         "awesome",
         "awesome-list",
