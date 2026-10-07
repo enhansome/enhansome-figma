@@ -55,7 +55,7 @@
             "open_issues": 60,
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3699,
+            "stars": 3698,
             "topics": [
               "angular",
               "chrome-extension",
@@ -122,7 +122,7 @@
             "open_issues": 12,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 855,
+            "stars": 854,
             "topics": [
               "agent-skills",
               "figma",
@@ -340,7 +340,7 @@
             "open_issues": 54,
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2695,
+            "stars": 2693,
             "topics": [
               "figma",
               "figma-plugins",
@@ -422,7 +422,7 @@
             "open_issues": 8,
             "owner": "rsms",
             "repo": "figplug",
-            "stars": 371,
+            "stars": 370,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
@@ -607,7 +607,7 @@
             "open_issues": 22,
             "owner": "thomas-lowry",
             "repo": "figma-plugin-ds",
-            "stars": 757,
+            "stars": 756,
             "topics": [
               "figma-plugins"
             ]
@@ -1051,7 +1051,7 @@
             "open_issues": 161,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3283,
+            "stars": 3284,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:51:32.481Z",
+    "last_updated": "2026-10-07T23:25:22.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
@@ -1096,10 +1096,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-05-30T20:51:59Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "react-figma",
       "repo": "awesome-figma",
-      "stars": 437,
+      "stars": 436,
       "topics": [
         "awesome",
         "awesome-list",
