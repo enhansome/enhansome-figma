@@ -50,7 +50,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,217 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,216 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 * [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,698 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
 * [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,126 | 🐛 40 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 * [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 854 | 🐛 12 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
@@ -65,11 +65,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Plugins development
 
-* [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,693 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-06 - Render React components to Figma.
+* [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,691 | 🐛 50 | 🌐 TypeScript | 📅 2026-10-09 - Render React components to Figma.
 * [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) ⭐ 1,119 | 🐛 28 | 🌐 TypeScript | 📅 2026-03-21 - A comprehensive toolkit for developing Figma plugins.
 * [figma-plugin-react-template](https://github.com/nirsky/figma-plugin-react-template) ⭐ 481 | 🐛 4 | 🌐 TypeScript | 📅 2024-09-01 — Quickstart your Figma Plugin with this template and tooling.
 * [figplug](https://github.com/rsms/figplug) ⭐ 370 | 🐛 8 | 🌐 TypeScript | 📅 2023-05-06 - Figma plugin builder.
-* [figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) ⭐ 282 | 🐛 26 | 🌐 TypeScript | 📅 2024-02-24 - A collection of useful helper functions to import to your Figma plugin project.
+* [figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) ⭐ 281 | 🐛 26 | 🌐 TypeScript | 📅 2024-02-24 - A collection of useful helper functions to import to your Figma plugin project.
 * [figma-plugin-react-vite](https://github.com/CoconutGoodie/figma-plugin-react-vite) ⭐ 169 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-08 — A figma plugin boilerplate, that simplifies building plugins with React + Vite.
 * [figma-jsonrpc](https://github.com/Lona/figma-jsonrpc) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2021-05-31 - Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI.
 * [figx](https://github.com/n0ruSh/figx) ⭐ 57 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-06 - A comprehensive and reliable figma utilities library.
@@ -87,7 +87,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Rest API integrations
 
 * [figma-api-demo](https://github.com/figma/figma-api-demo) ⚠️ Archived - This project contains demo apps using the Figma API.
-* [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) ⭐ 874 | 🐛 13 | 🌐 Dart | 📅 2021-10-10 - A Dart code generator that converts Figma components to Flutter widgets.
+* [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) ⭐ 873 | 🐛 13 | 🌐 Dart | 📅 2021-10-10 - A Dart code generator that converts Figma components to Flutter widgets.
 * [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 821 | 🐛 27 | 🌐 Swift | 📅 2026-09-26 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 * [Figma.js](https://github.com/jongold/figma-js) ⚠️ Archived - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) ⭐ 393 | 🐛 108 | 🌐 TypeScript | 📅 2026-02-12 - A GraphQL connector for the Figma API.
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

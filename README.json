@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5217,
+            "stars": 5216,
             "topics": [
               "conversion",
               "figma",
@@ -336,11 +336,11 @@
             "id": 201732237,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T20:44:52Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-09T16:18:06Z",
+            "open_issues": 50,
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2693,
+            "stars": 2691,
             "topics": [
               "figma",
               "figma-plugins",
@@ -443,7 +443,7 @@
             "open_issues": 26,
             "owner": "figma-plugin-helper-functions",
             "repo": "figma-plugin-helpers",
-            "stars": 282,
+            "stars": 281,
             "topics": [
               "figma",
               "figma-plugin",
@@ -730,7 +730,7 @@
             "open_issues": 13,
             "owner": "aloisdeniel",
             "repo": "figma-to-flutter",
-            "stars": 874,
+            "stars": 873,
             "topics": [
               "dart",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:36:55.078Z",
+    "last_updated": "2026-10-09T22:59:23.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
@@ -1096,7 +1096,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-05-30T20:51:59Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "react-figma",
       "repo": "awesome-figma",
       "stars": 436,
