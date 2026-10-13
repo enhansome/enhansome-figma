@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5221,
+            "stars": 5224,
             "topics": [
               "conversion",
               "figma",
@@ -468,7 +468,7 @@
             "open_issues": 5,
             "owner": "iGoodie",
             "repo": "figma-plugin-react-vite",
-            "stars": 169,
+            "stars": 168,
             "topics": [
               "boilerplate",
               "figjam",
@@ -756,7 +756,7 @@
             "open_issues": 25,
             "owner": "RedMadRobot",
             "repo": "figma-export",
-            "stars": 821,
+            "stars": 823,
             "topics": [
               "android",
               "android-studio",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:38:14.976Z",
+    "last_updated": "2026-10-13T01:04:09.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
