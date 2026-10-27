@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5246,
+            "stars": 5248,
             "topics": [
               "conversion",
               "figma",
@@ -55,7 +55,7 @@
             "open_issues": 60,
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3710,
+            "stars": 3709,
             "topics": [
               "angular",
               "chrome-extension",
@@ -607,7 +607,7 @@
             "open_issues": 22,
             "owner": "thomas-lowry",
             "repo": "figma-plugin-ds",
-            "stars": 755,
+            "stars": 754,
             "topics": [
               "figma-plugins"
             ]
@@ -630,7 +630,7 @@
             "open_issues": 3,
             "owner": "ecklf",
             "repo": "tailwindcss-figma-kit",
-            "stars": 736,
+            "stars": 735,
             "topics": [
               "css",
               "design",
@@ -709,7 +709,7 @@
             "open_issues": 24,
             "owner": "figma",
             "repo": "figma-api-demo",
-            "stars": 1337,
+            "stars": 1336,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
@@ -756,7 +756,7 @@
             "open_issues": 25,
             "owner": "RedMadRobot",
             "repo": "figma-export",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "android",
               "android-studio",
@@ -1051,7 +1051,7 @@
             "open_issues": 161,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3289,
+            "stars": 3291,
             "topics": [
               "electron",
               "figma",
@@ -1074,7 +1074,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2019-01-11T23:47:21Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "302bis",
             "repo": "figma-app-ubuntu",
             "stars": 54,
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:58:58.516Z",
+    "last_updated": "2026-10-27T22:48:49.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
@@ -1099,7 +1099,7 @@
       "open_issues": 12,
       "owner": "react-figma",
       "repo": "awesome-figma",
-      "stars": 436,
+      "stars": 437,
       "topics": [
         "awesome",
         "awesome-list",
