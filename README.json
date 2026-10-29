@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5255,
+            "stars": 5257,
             "topics": [
               "conversion",
               "figma",
@@ -396,7 +396,7 @@
             "open_issues": 4,
             "owner": "nirsky",
             "repo": "figma-plugin-react-template",
-            "stars": 480,
+            "stars": 479,
             "topics": [
               "boilerplate",
               "figma-plugin",
@@ -1051,7 +1051,7 @@
             "open_issues": 161,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3292,
+            "stars": 3293,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:55:37.766Z",
+    "last_updated": "2026-10-29T23:03:48.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
@@ -1096,7 +1096,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-05-30T20:51:59Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "react-figma",
       "repo": "awesome-figma",
       "stars": 437,
