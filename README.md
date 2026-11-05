@@ -50,9 +50,9 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,264 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
-* [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,713 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
-* [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,130 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,265 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,714 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
+* [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,131 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 * [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 862 | 🐛 16 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
 * [tailwindcss-figma-plugin](https://github.com/impulse/tailwindcss-figma-plugin) ⚠️ Archived - Figma Plugin for TailwindCSS.
 * [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) ⭐ 203 | 🐛 1 | 🌐 HTML | 📅 2024-03-05 - Figma plugin to copy svg as a react component.
@@ -87,7 +87,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Rest API integrations
 
 * [figma-api-demo](https://github.com/figma/figma-api-demo) ⚠️ Archived - This project contains demo apps using the Figma API.
-* [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) ⭐ 873 | 🐛 13 | 🌐 Dart | 📅 2021-10-10 - A Dart code generator that converts Figma components to Flutter widgets.
+* [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) ⭐ 874 | 🐛 13 | 🌐 Dart | 📅 2021-10-10 - A Dart code generator that converts Figma components to Flutter widgets.
 * [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 824 | 🐛 25 | 🌐 Swift | 📅 2026-10-10 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 * [Figma.js](https://github.com/jongold/figma-js) ⚠️ Archived - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) ⭐ 393 | 🐛 108 | 🌐 TypeScript | 📅 2026-02-12 - A GraphQL connector for the Figma API.
@@ -104,7 +104,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Clients
 
-* [figma-linux](https://github.com/ChugunovRoman/figma-linux) ⭐ 3,300 | 🐛 161 | 🌐 Svelte | 📅 2026-01-21 - Figma electron app (unofficial).
+* [figma-linux](https://github.com/ChugunovRoman/figma-linux) ⭐ 3,299 | 🐛 161 | 🌐 Svelte | 📅 2026-01-21 - Figma electron app (unofficial).
 * [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) ⭐ 54 | 🐛 10 | 🌐 JavaScript | 📅 2019-01-11 - Figma, Snap Package (unofficial).
 * [Figmac](https://figmac.com/) - A super lightweight Figma desktop app that delivers a more natural Mac experience.
 
