@@ -55,7 +55,7 @@
             "open_issues": 60,
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3711,
+            "stars": 3713,
             "topics": [
               "angular",
               "chrome-extension",
@@ -122,7 +122,7 @@
             "open_issues": 16,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "agent-skills",
               "figma",
@@ -630,7 +630,7 @@
             "open_issues": 3,
             "owner": "ecklf",
             "repo": "tailwindcss-figma-kit",
-            "stars": 735,
+            "stars": 734,
             "topics": [
               "css",
               "design",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:50:15.774Z",
+    "last_updated": "2026-11-05T00:04:22.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
