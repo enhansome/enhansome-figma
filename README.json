@@ -55,7 +55,7 @@
             "open_issues": 60,
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3714,
+            "stars": 3713,
             "topics": [
               "angular",
               "chrome-extension",
@@ -709,7 +709,7 @@
             "open_issues": 24,
             "owner": "figma",
             "repo": "figma-api-demo",
-            "stars": 1336,
+            "stars": 1335,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:44.313Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 161,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3299,
+            "stars": 3303,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:55:12.277Z",
+    "last_updated": "2026-11-06T23:36:05.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
@@ -1099,7 +1099,7 @@
       "open_issues": 12,
       "owner": "react-figma",
       "repo": "awesome-figma",
-      "stars": 437,
+      "stars": 438,
       "topics": [
         "awesome",
         "awesome-list",
