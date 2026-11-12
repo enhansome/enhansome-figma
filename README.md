@@ -50,7 +50,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,267 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,268 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 * [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,717 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
 * [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,130 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 * [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 864 | 🐛 16 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
@@ -88,7 +88,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [figma-api-demo](https://github.com/figma/figma-api-demo) ⚠️ Archived - This project contains demo apps using the Figma API.
 * [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) ⭐ 873 | 🐛 13 | 🌐 Dart | 📅 2021-10-10 - A Dart code generator that converts Figma components to Flutter widgets.
-* [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 824 | 🐛 25 | 🌐 Swift | 📅 2026-10-10 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
+* [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 824 | 🐛 26 | 🌐 Swift | 📅 2026-10-10 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 * [Figma.js](https://github.com/jongold/figma-js) ⚠️ Archived - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) ⭐ 393 | 🐛 108 | 🌐 TypeScript | 📅 2026-02-12 - A GraphQL connector for the Figma API.
 * [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) ⭐ 189 | 🐛 17 | 🌐 JavaScript | 📅 2022-12-07 - Embed Figma designs in a storybook panel.

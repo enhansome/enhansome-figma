@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5267,
+            "stars": 5268,
             "topics": [
               "conversion",
               "figma",
@@ -753,7 +753,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-10-10T09:25:47Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "RedMadRobot",
             "repo": "figma-export",
             "stars": 824,
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:13:44.307Z",
+    "last_updated": "2026-11-12T23:56:48.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
