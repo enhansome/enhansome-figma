@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5265,
+            "stars": 5267,
             "topics": [
               "conversion",
               "figma",
@@ -55,7 +55,7 @@
             "open_issues": 60,
             "owner": "BuilderIO",
             "repo": "figma-html",
-            "stars": 3718,
+            "stars": 3717,
             "topics": [
               "angular",
               "chrome-extension",
@@ -122,7 +122,7 @@
             "open_issues": 16,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "agent-skills",
               "figma",
@@ -365,7 +365,7 @@
             "open_issues": 28,
             "owner": "yuanqing",
             "repo": "create-figma-plugin",
-            "stars": 1120,
+            "stars": 1121,
             "topics": [
               "create-figma-plugin",
               "figjam",
@@ -730,7 +730,7 @@
             "open_issues": 13,
             "owner": "aloisdeniel",
             "repo": "figma-to-flutter",
-            "stars": 874,
+            "stars": 873,
             "topics": [
               "dart",
               "figma",
@@ -1051,7 +1051,7 @@
             "open_issues": 162,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
-            "stars": 3302,
+            "stars": 3301,
             "topics": [
               "electron",
               "figma",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:51:04.649Z",
+    "last_updated": "2026-11-12T01:13:44.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
