@@ -50,8 +50,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,268 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
-* [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,717 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,269 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,715 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
 * [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,130 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 * [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 864 | 🐛 16 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
 * [tailwindcss-figma-plugin](https://github.com/impulse/tailwindcss-figma-plugin) ⚠️ Archived - Figma Plugin for TailwindCSS.
@@ -66,7 +66,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Plugins development
 
 * [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,690 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-26 - Render React components to Figma.
-* [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) ⭐ 1,121 | 🐛 28 | 🌐 TypeScript | 📅 2026-03-21 - A comprehensive toolkit for developing Figma plugins.
+* [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) ⭐ 1,121 | 🐛 30 | 🌐 TypeScript | 📅 2026-03-21 - A comprehensive toolkit for developing Figma plugins.
 * [figma-plugin-react-template](https://github.com/nirsky/figma-plugin-react-template) ⭐ 479 | 🐛 4 | 🌐 TypeScript | 📅 2024-09-01 — Quickstart your Figma Plugin with this template and tooling.
 * [figplug](https://github.com/rsms/figplug) ⭐ 370 | 🐛 8 | 🌐 TypeScript | 📅 2023-05-06 - Figma plugin builder.
 * [figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) ⭐ 282 | 🐛 26 | 🌐 TypeScript | 📅 2024-02-24 - A collection of useful helper functions to import to your Figma plugin project.
@@ -88,7 +88,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [figma-api-demo](https://github.com/figma/figma-api-demo) ⚠️ Archived - This project contains demo apps using the Figma API.
 * [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) ⭐ 873 | 🐛 13 | 🌐 Dart | 📅 2021-10-10 - A Dart code generator that converts Figma components to Flutter widgets.
-* [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 824 | 🐛 26 | 🌐 Swift | 📅 2026-10-10 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
+* [figma-export](https://github.com/RedMadRobot/figma-export) ⭐ 824 | 🐛 28 | 🌐 Swift | 📅 2026-11-13 - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 * [Figma.js](https://github.com/jongold/figma-js) ⚠️ Archived - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) ⭐ 393 | 🐛 108 | 🌐 TypeScript | 📅 2026-02-12 - A GraphQL connector for the Figma API.
 * [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) ⭐ 189 | 🐛 17 | 🌐 JavaScript | 📅 2022-12-07 - Embed Figma designs in a storybook panel.
@@ -104,7 +104,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Clients
 
-* [figma-linux](https://github.com/ChugunovRoman/figma-linux) ⭐ 3,301 | 🐛 162 | 🌐 Svelte | 📅 2026-01-21 - Figma electron app (unofficial).
+* [figma-linux](https://github.com/ChugunovRoman/figma-linux) ⭐ 3,303 | 🐛 162 | 🌐 Svelte | 📅 2026-01-21 - Figma electron app (unofficial).
 * [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) ⭐ 54 | 🐛 10 | 🌐 JavaScript | 📅 2019-01-11 - Figma, Snap Package (unofficial).
 * [Figmac](https://figmac.com/) - A super lightweight Figma desktop app that delivers a more natural Mac experience.
 
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
