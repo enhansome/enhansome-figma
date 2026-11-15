@@ -365,7 +365,7 @@
             "open_issues": 31,
             "owner": "yuanqing",
             "repo": "create-figma-plugin",
-            "stars": 1121,
+            "stars": 1120,
             "topics": [
               "create-figma-plugin",
               "figjam",
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:50:17.451Z",
+    "last_updated": "2026-11-15T23:17:37.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",

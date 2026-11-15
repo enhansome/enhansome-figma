@@ -66,7 +66,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Plugins development
 
 * [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,690 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-26 - Render React components to Figma.
-* [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) ⭐ 1,121 | 🐛 31 | 🌐 TypeScript | 📅 2026-03-21 - A comprehensive toolkit for developing Figma plugins.
+* [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) ⭐ 1,120 | 🐛 31 | 🌐 TypeScript | 📅 2026-03-21 - A comprehensive toolkit for developing Figma plugins.
 * [figma-plugin-react-template](https://github.com/nirsky/figma-plugin-react-template) ⭐ 479 | 🐛 4 | 🌐 TypeScript | 📅 2024-09-01 — Quickstart your Figma Plugin with this template and tooling.
 * [figplug](https://github.com/rsms/figplug) ⭐ 370 | 🐛 8 | 🌐 TypeScript | 📅 2023-05-06 - Figma plugin builder.
 * [figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) ⭐ 282 | 🐛 26 | 🌐 TypeScript | 📅 2024-02-24 - A collection of useful helper functions to import to your Figma plugin project.
@@ -115,4 +115,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
