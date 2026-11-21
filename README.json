@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-05T23:23:49Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "bernaferrari",
             "repo": "FigmaToCode",
-            "stars": 5277,
+            "stars": 5279,
             "topics": [
               "conversion",
               "figma",
@@ -607,7 +607,7 @@
             "open_issues": 22,
             "owner": "thomas-lowry",
             "repo": "figma-plugin-ds",
-            "stars": 753,
+            "stars": 752,
             "topics": [
               "figma-plugins"
             ]
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:33:23.910Z",
+    "last_updated": "2026-11-21T23:41:00.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",

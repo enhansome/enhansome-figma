@@ -50,7 +50,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Open-Source Plugins
 
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,277 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) ⭐ 5,279 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-05 - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 * [html-figma](https://github.com/BuilderIO/html-figma) ⭐ 3,718 | 🐛 60 | 🌐 TypeScript | 📅 2025-08-19 - Plugin to import HTML into Figma layers.
 * [design-tokens](https://github.com/lukasoppermann/design-tokens) ⭐ 1,130 | 🐛 41 | 🌐 TypeScript | 📅 2026-02-16 - Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 * [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) ⭐ 864 | 🐛 15 | 📅 2026-07-17 - A list of Figma Plugins that have been shared on GitHub.
@@ -78,7 +78,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Templates & UI Kits
 
-* [figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds) ⭐ 753 | 🐛 22 | 🌐 SCSS | 📅 2024-07-02 - A small lightweight design system for use in Figma Plugins.
+* [figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds) ⭐ 752 | 🐛 22 | 🌐 SCSS | 📅 2024-07-02 - A small lightweight design system for use in Figma Plugins.
 * [tailwindcss-figma-kit](https://github.com/impulse/tailwindcss-figma-kit) ⭐ 734 | 🐛 3 | 🌐 Shell | 📅 2022-02-04 - Figma Kit for TailwindCSS.
 * [figma-styled-components](https://github.com/jhardy/figma-styled-components) ⭐ 60 | 🐛 26 | 🌐 TypeScript | 📅 2023-01-05 - Figma UI styled components.
 * [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) ⭐ 39 | 🐛 23 | 🌐 TypeScript | 📅 2023-01-07 - An unofficial set of Figma UI components.
