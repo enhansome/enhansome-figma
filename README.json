@@ -365,7 +365,7 @@
             "open_issues": 31,
             "owner": "yuanqing",
             "repo": "create-figma-plugin",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "create-figma-plugin",
               "figjam",
@@ -1048,7 +1048,7 @@
             "language": "Svelte",
             "license": "GPL-2.0",
             "last_commit": "2026-01-21T23:35:38Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "Figma-Linux",
             "repo": "figma-linux",
             "stars": 3309,
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:00:12.919Z",
+    "last_updated": "2026-11-27T02:00:13.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "💡 A curated list of delightful Figma resources",
